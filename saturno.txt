@@ -3,3 +3,12 @@ carlos
 basto
 pineda
 
+
+mercurio
+venus
+tierra
+marte
+jupiter
+saturno
+urano
+neptuno
