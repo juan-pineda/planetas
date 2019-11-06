@@ -12,3 +12,5 @@ jupiter
 saturno
 urano
 neptuno
+
+plutón
